@@ -5,6 +5,7 @@
 For more info see 
 + Defeating x64 Driver Signature Enforcement http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3322
 + WinNT/Turla http://www.kernelmode.info/forum/viewtopic.php?f=16&t=3193
++ Original Bug: https://www.coresecurity.com/content/virtualbox-privilege-escalation-vulnerability
 
 # System Requirements and limitations
 
